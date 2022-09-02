@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 <p>
   <img src ="https://img.shields.io/badge/Ethereum-363636?style=for-the-badge&logo=Ethereum&logoColor=white"/>
   <img src ="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white"/>
+  <img src ="https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=Stellar&logoColor=white"/>
 </p>
 <h3> Misc: </h3>
 <p>
